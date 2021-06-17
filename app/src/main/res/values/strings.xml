@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Air Quality</string>
+    <string name="socket_connection_error_message">Yo! Please check your network. But I will keep trying as long as you have an active internet connection</string>
+    <string name="socket_offline_message">You are now offline. Bye!</string>
+    <string name="aqi_quality">AQI Quality</string>
+    <string name="wait_we_are_getting_data_from_socket">Wait!!! We are getting data from Socket</string>
+</resources>
